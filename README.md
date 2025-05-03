@@ -4,21 +4,21 @@ A modern, responsive grocery e-commerce web application built with Next.js, Reac
 
 ## 🚀 Technologies Used
 
-Next.js 15 (with Turbopack)
+- Next.js 15 (with Turbopack)
 
-React 19
+- React 19
 
-TypeScript
+- TypeScript
 
-TailwindCSS 4
+- TailwindCSS 4
 
-Mongoose 8
+- Mongoose 8
 
-Stripe API
+- Stripe API
 
-React Icons
+- React Icons
 
-React Toastify
+- React Toastify
 
 ## 📦 Features
 

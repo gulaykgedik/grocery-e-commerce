@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🛒 Grocery E-Commerce
+A modern, responsive grocery e-commerce web application built with Next.js, React, TailwindCSS, and TypeScript. The app supports product listing, cart management, Stripe payment integration, and toast notifications.
 
-## Getting Started
+🚀 Technologies Used
+Next.js 15 (with Turbopack)
 
-First, run the development server:
+React 19
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+TypeScript
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+TailwindCSS 4
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Mongoose 8
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Stripe API
 
-## Learn More
+React Icons
 
-To learn more about Next.js, take a look at the following resources:
+React Toastify
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+📦 Features
+🛍️ Product listing and details
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🧺 Add/remove products from cart
 
-## Deploy on Vercel
+💳 Stripe payment integration
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🔔 Toast notifications for user feedback
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🌙 Fully responsive and modern UI
+
+⚡ Fast performance with Turbopack
+
+📦 MongoDB integration using Mongoose (for dynamic product data)
+
+📸 Screenshots
